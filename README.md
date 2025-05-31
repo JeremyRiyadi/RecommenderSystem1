@@ -6,20 +6,6 @@ The notebook performs **exploratory data analysis (EDA)**, **data preprocessing*
 
 ---
 
-## 📂 Dataset Description
-
-* **Filename**: `3A.tsv`
-* **Format**: Tab-separated values
-* **Content**:
-
-  * `user_id`: Unique identifier for each user
-  * `movie_id`: Unique identifier for each movie
-  * `rating`: User's rating of the movie (typically on a scale of 1–5)
-
-The dataset contains explicit feedback data suitable for collaborative filtering.
-
----
-
 ## 🔍 Key Steps & Methods
 
 ### 1. Data Preprocessing
